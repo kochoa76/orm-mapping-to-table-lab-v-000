@@ -18,4 +18,4 @@ class Student
   #  with DB[:conn]
   end
 
-  def 
+end 
